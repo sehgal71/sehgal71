@@ -5,7 +5,7 @@ I'm a **Data Analyst** with a passion for transforming data into actionable insi
 ## 🔍 What I Do
 
 - **Data Collection & Cleaning**: Python, Excel, SQL, Power Query
-- **Data Pipelines & Automation**: SQL Pipelines, Power BI Automation, Excel Macros, AWS Basics
+- **Data Pipelines & Automation**: SQL Pipelines, Excel, Power BI
 - **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Folium
 - **Analysis & Modelling**: Exploratory Data Analysis, Forecasting, A/B Testing, Logistic Regression, Decision Trees
 
